@@ -1,6 +1,8 @@
 {
   "name": "@yhjhoo/coffee",
   "version": "1.0.1",
+  "description": "publish with public access npm publish --access public",
+  "main": "product.js",
   "dependencies": {
     "canvas-confetti": "^1.4.0"
   },
@@ -12,5 +14,14 @@
     "build": "snowpack build",
     "snowInit": "snowpack init",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhjhoo/coffee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yhjhoo/coffee/issues"
+  },
+  "homepage": "https://github.com/yhjhoo/coffee#readme"
+
 }
