@@ -1,6 +1,6 @@
 {
   "name": "@yhjhoo/coffee",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "publish with public access npm publish --access public",
   "main": "product.js",
   "dependencies": {
